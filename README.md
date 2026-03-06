@@ -9,7 +9,7 @@
 ➡️ [Python Notebook](Ritesh_LoanTap.ipynb)
 
 - You can access the complete case study report here  
-➡️ [Project Report](Ritesh LoanTap - Colab.pdf)
+➡️ [Project Report](Ritesh_LoanTap.pdf)
 
 ---
 
